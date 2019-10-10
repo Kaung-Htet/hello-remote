@@ -1,3 +1,3 @@
 here is some text we are adding into demo.txt
 
-here is some text edited by local 
+here is some text edited from local copy
